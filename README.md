@@ -1,2 +1,2 @@
-# a-heuristic-and-sampling-method-for-online-generation-of-splicing-trajectory
-Unified human intention recognition and heuristic-based trajectory generation for haptic teleoperation of non-holonomic vehicles
+# A heuristic search strategy based on manipulative intention
+In the paper submission, following the receipt of the paper, I will share some demo here. The main content of this thesis is to use human manoeuvring intention to generate trajectory to assist the operator to complete navigation task.
